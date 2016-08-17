@@ -8,7 +8,7 @@ Time spent: **X** hours spent in total
 
 The following functionality is completed:
 
-* [ ] User can sign in using OAuth login flow
+* [x] User can sign in using OAuth login flow
 * [ ] User can view global feed of photos created by any TumblrSnap client
 * [ ] User can take a picture, apply a filter, and upload that image to tumblr
   * [ ] User can select a photo from camera roll, apply a filterand post
