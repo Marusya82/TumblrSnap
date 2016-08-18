@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xhdpi"
+    format="7"
+    timestamp="1223105386828530"
+    token="-9203270388525236433" >
+
+    <task
+        name="javac"
+        duration="613" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="447" />
+    <task
+        name="verifier"
+        duration="78" />
+
+    <artifact
+        location="/Users/mtanasyu/github/tumblrsnap-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1223105386828530" >
+        <artifact
+            location="/Users/mtanasyu/github/tumblrsnap-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

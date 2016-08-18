@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/res/merged/debug/menu/photos.xml",
+        "source": "/Users/mtanasyu/github/tumblrsnap-master/app/src/main/res/menu/photos.xml"
+    },
+    {
+        "merged": "/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/mtanasyu/github/tumblrsnap-master/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/res/merged/debug/menu/preview_photo.xml",
+        "source": "/Users/mtanasyu/github/tumblrsnap-master/app/src/main/res/menu/preview_photo.xml"
+    },
+    {
+        "merged": "/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/res/merged/debug/menu/settings.xml",
+        "source": "/Users/mtanasyu/github/tumblrsnap-master/app/src/main/res/menu/settings.xml"
+    }
+]

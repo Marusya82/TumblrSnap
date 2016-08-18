@@ -1,0 +1,5 @@
+CHANGED,/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/codepath/apps/tumblrsnap/fragments/PhotosFragment$2$1$override.class
+CHANGED,/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/codepath/apps/tumblrsnap/fragments/PhotosFragment$2$override.class
+CHANGED,/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/codepath/apps/tumblrsnap/fragments/PhotosFragment$override.class
+CHANGED,/Users/mtanasyu/github/tumblrsnap-master/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/codepath/apps/tumblrsnap/fragments/PhotosFragment$1$override.class
